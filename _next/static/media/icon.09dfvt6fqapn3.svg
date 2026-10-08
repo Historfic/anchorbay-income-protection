@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-label="Anchorbay Cover">
+  <circle cx="16" cy="6.5" r="3" fill="none" stroke="#4A2F6B" stroke-width="2.4"/>
+  <path d="M16 9.5V27M10 14h12" fill="none" stroke="#4A2F6B" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M5 18.5c1.2 5.2 5.6 8.5 11 8.5s9.8-3.3 11-8.5" fill="none" stroke="#5BBFB5" stroke-width="2.4" stroke-linecap="round"/>
+</svg>
